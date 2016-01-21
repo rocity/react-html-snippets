@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+        <![CDATA[<input type="$1" className="$2" />]]>
+    </content>
+    <tabTrigger>input</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>HTML input tag for React</description>
+</snippet>

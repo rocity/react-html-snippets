@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+        <![CDATA[<img className="$1" src="$2" />]]>
+    </content>
+    <tabTrigger>img</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>HTML img tag for React</description>
+</snippet>

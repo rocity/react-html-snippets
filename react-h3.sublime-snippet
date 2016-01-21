@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+        <![CDATA[<h3 className="$1">$2</h3>]]>
+    </content>
+    <tabTrigger>h3</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>HTML h3 tag for React</description>
+</snippet>

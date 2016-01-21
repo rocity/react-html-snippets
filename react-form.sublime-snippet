@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+        <![CDATA[<form className="$1" onSubmit="$2">$3</form>]]>
+    </content>
+    <tabTrigger>form</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>HTML form tag for React</description>
+</snippet>

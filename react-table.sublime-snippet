@@ -1,0 +1,19 @@
+<snippet>
+    <content>
+        <![CDATA[<table className="$1">
+    <thead>
+        <th>
+            <td>$2</td>
+        </th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$3</td>
+        </tr>
+    </tbody>
+</table>]]>
+    </content>
+    <tabTrigger>table</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>HTML table tag for React</description>
+</snippet>

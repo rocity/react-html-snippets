@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+        <![CDATA[<span className="$1" >$2</span>]]>
+    </content>
+    <tabTrigger>span</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>HTML span tag for React</description>
+</snippet>

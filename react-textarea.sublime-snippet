@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+        <![CDATA[<textarea className="$1" >$2</textarea>]]>
+    </content>
+    <tabTrigger>textarea</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>HTML textarea tag for React</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+        <![CDATA[<li>$1</li>]]>
+    </content>
+    <tabTrigger>li</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>HTML list item tag for React</description>
+</snippet>

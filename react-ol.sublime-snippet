@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[<ol className="$1">
+    <li>$2</li>
+</ol>]]>
+    </content>
+    <tabTrigger>ol</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>HTML ordered list tag for React</description>
+</snippet>

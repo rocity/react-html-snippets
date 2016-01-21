@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+        <![CDATA[<tr>$1</tr>]]>
+    </content>
+    <tabTrigger>tr</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>HTML table row tag for React</description>
+</snippet>

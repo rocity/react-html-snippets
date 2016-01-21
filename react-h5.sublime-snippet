@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+        <![CDATA[<h5 className="$1">$2</h5>]]>
+    </content>
+    <tabTrigger>h5</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>HTML h5 tag for React</description>
+</snippet>

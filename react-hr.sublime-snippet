@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+        <![CDATA[<hr />]]>
+    </content>
+    <tabTrigger>hr</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>HTML horizontal rule tag for React</description>
+</snippet>

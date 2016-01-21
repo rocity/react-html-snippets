@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+        <![CDATA[<strong>$1</strong>]]>
+    </content>
+    <tabTrigger>strong</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>HTML strong emphasis tag for React</description>
+</snippet>

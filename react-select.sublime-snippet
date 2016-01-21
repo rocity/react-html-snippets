@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[<select className="$1">
+    <option value="$2">$3</option>
+</select>]]>
+    </content>
+    <tabTrigger>select</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>HTML select list tag for React</description>
+</snippet>

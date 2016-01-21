@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+        <![CDATA[<button className="$1" type="$2">$3</button>]]>
+    </content>
+    <tabTrigger>button</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>HTML button tag for React</description>
+</snippet>

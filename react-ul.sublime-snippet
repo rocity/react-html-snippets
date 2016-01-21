@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[<ul className="$1">
+    <li>$2</li>
+</ul>]]>
+    </content>
+    <tabTrigger>ul</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>HTML unordered list tag for React</description>
+</snippet>
