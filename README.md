@@ -2,6 +2,16 @@
 
 SublimeText HTML Tag snippets for JSX files.
 
+## Install
+- Via Package Manager
+    1. If you don't have Package Control yet, install it [first](https://packagecontrol.io/installation).
+    2. Search for `react-html-snippets`
+    3. Install.
+
+- Manual
+    1. Clone this repository into your Packages folder
+
+## Supported tags
 - a
 - br
 - button
