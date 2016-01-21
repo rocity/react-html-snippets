@@ -1,5 +1,7 @@
 #React HTML Tags
 
+SublimeText HTML Tag snippets for JSX files.
+
 - a
 - br
 - button
