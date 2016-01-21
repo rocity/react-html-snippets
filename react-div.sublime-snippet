@@ -1,12 +1,10 @@
 <snippet>
-	<content>
-        <![CDATA[
-            <div className="$1">
-                $2
-            </div>
-        ]]>
+    <content>
+        <![CDATA[<div className="$1">
+    $2
+</div>]]>
     </content>
-	<tabTrigger>div</tabTrigger>
-	<scope>source.jsx</scope>
+    <tabTrigger>div</tabTrigger>
+    <scope>source.js.jsx</scope>
     <description>HTML Div for React</description>
 </snippet>
