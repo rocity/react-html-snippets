@@ -2,9 +2,9 @@
     <content>
         <![CDATA[<table className="$1">
     <thead>
-        <th>
-            <td>$2</td>
-        </th>
+        <tr>
+            <th>$2</th>
+        </tr>
     </thead>
     <tbody>
         <tr>
