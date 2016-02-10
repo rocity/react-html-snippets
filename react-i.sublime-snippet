@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+        <![CDATA[<i className="$1">$2</i>]]>
+    </content>
+    <tabTrigger>i</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>HTML i tag for React</description>
+</snippet>
